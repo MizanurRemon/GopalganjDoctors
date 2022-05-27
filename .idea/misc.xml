@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/saaki/AndroidStudioProjects/GopalganjDoctors/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.155" />
+        <entry key="..\:/Users/saaki/AndroidStudioProjects/GopalganjDoctors/app/src/main/res/drawable/ic_launcher_background.xml" value="0.155" />
+        <entry key="..\:/Users/saaki/AndroidStudioProjects/GopalganjDoctors/app/src/main/res/layout/activity_details.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/saaki/AndroidStudioProjects/GopalganjDoctors/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="app/src/main/res/drawable/circle.xml" value="0.1255" />
+        <entry key="app/src/main/res/drawable/shape_black_border.xml" value="0.1675" />
+        <entry key="app/src/main/res/drawable/shape_bottom_corner.xml" value="0.1015" />
+        <entry key="app/src/main/res/drawable/shape_grey_border.xml" value="0.1255" />
+        <entry key="app/src/main/res/layout/activity_admin.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_admin_doctors_serial.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_doctors.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_doctors_serial.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_patient.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_patient_registration.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_patient_serial.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_prescription.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/add_doctors_alert.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/add_medicine_alert.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/admin_login_alert.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/doctor_login.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/doctor_login_alert.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/doctors_card.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/medicine_card.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/patient_login_alert.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/serial_card.xml" value="0.19375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
