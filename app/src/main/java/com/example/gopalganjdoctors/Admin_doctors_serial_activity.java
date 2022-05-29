@@ -36,6 +36,8 @@ public class Admin_doctors_serial_activity extends AppCompatActivity implements 
 
     TextView nameText, designationText, phoneText;
 
+    int x;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
